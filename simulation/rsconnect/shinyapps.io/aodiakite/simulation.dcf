@@ -1,0 +1,13 @@
+name: simulation
+title: simulation
+username:
+account: aodiakite
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6796032
+bundleId: 6208565
+url: https://aodiakite.shinyapps.io/simulation/
+when: 1660699805.95465
+lastSyncTime: 1660699805.95468
+asMultiple: FALSE
+asStatic: FALSE
